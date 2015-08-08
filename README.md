@@ -1,0 +1,1 @@
+# docker-typesafe-activator
