@@ -1,3 +1,4 @@
+FROM docker.io/java:openjdk-8-jdk
 MAINTAINER BatteryAcid <ecurb33@gmail.com>
 
 ENV ACTIVATOR_VER 1.3.5
